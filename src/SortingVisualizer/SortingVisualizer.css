@@ -1,0 +1,17 @@
+.array-container {
+position: absolute;
+  left: 50px;
+}
+
+.array-bar {
+  width: 2px;
+  background-color: lightblue;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+body {
+  background-color: grey;
+}
+
+
